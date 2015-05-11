@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="me.android.dochub.activities.MainActivity">
+    <item android:id="@+id/action_example" android:title="@string/action_example"
+        app:showAsAction="withText|ifRoom" />
+    <item
+        android:id="@+id/action_exit"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/action_exit"
+        android:onClick="exit"/>
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/action_settings"
+        android:onClick="settings"/>
+</menu>
+<!-- From: file:/home/frank/AndroidStudioProjects/DocHub/app/src/main/res/menu/main.xml -->

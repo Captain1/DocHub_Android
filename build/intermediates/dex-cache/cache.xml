@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/frank/AndroidStudioProjects/DocHub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/frank/AndroidStudioProjects/DocHub/app/build/intermediates/pre-dexed/debug/classes-a8036c68ba24e42e89d12649408d925423036d6e.jar" />
+    </item>
+    <item
+        jar="/home/frank/AndroidStudioProjects/DocHub/app/libs/Parse-1.8.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c2cb0bfe37cbefd855b6faa3c9a5be833aba7300">
+        <dex dex="/home/frank/AndroidStudioProjects/DocHub/app/build/intermediates/pre-dexed/debug/Parse-1.8.2-37d28775d59f651d964c613e9f5aa8c152813768.jar" />
+    </item>
+    <item
+        jar="/home/frank/AndroidStudioProjects/DocHub/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/frank/AndroidStudioProjects/DocHub/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-9d2309ff8754a790aca6740e2022c63b81809e3f.jar" />
+    </item>
+    <item
+        jar="/home/frank/AndroidStudioProjects/DocHub/app/build/intermediates/exploded-aar/io.filepicker/filepicker-android/3.8.8/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c894418228640aefdd96e6c76ccbfdd9afd43364">
+        <dex dex="/home/frank/AndroidStudioProjects/DocHub/app/build/intermediates/pre-dexed/debug/classes-6d5b9be39ed071636309e1f387e51898759fe44c.jar" />
+    </item>
+    <item
+        jar="/home/frank/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.2.0/c0b52915a48fa91b1b94a28d4a2997bac5f524df/okio-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="/home/frank/AndroidStudioProjects/DocHub/app/build/intermediates/pre-dexed/debug/okio-1.2.0-563543bc33e1e9b48a8d36507e178325a65d4964.jar" />
+    </item>
+    <item
+        jar="/home/frank/AndroidStudioProjects/DocHub/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/home/frank/AndroidStudioProjects/DocHub/app/build/intermediates/pre-dexed/debug/classes-7d850f6c66d0039efe3b8bcb01797b98210e810f.jar" />
+    </item>
+    <item
+        jar="/home/frank/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/frank/AndroidStudioProjects/DocHub/app/build/intermediates/pre-dexed/debug/gson-2.3.1-79a2a6e295c566825d992e0c9cb17d00df384e88.jar" />
+    </item>
+    <item
+        jar="/home/frank/AndroidStudioProjects/DocHub/app/libs/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/home/frank/AndroidStudioProjects/DocHub/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-8505dfb01dcaef41f57a54318aff1dffb9724275.jar" />
+    </item>
+    <item
+        jar="/home/frank/AndroidStudioProjects/DocHub/app/libs/volley.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/home/frank/AndroidStudioProjects/DocHub/app/build/intermediates/pre-dexed/debug/volley-73236c2e7f44fd29a45995459edbcc75c78d9d02.jar" />
+    </item>
+    <item
+        jar="/home/frank/Programs/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/frank/AndroidStudioProjects/DocHub/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-3e0e65de56b9070b229924212bb3cd4944fa2cb0.jar" />
+    </item>
+    <item
+        jar="/home/frank/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.2.1/a18ff12a9ab5ae52fd30d42f134517997568231e/eventbus-2.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a18ff12a9ab5ae52fd30d42f134517997568231e">
+        <dex dex="/home/frank/AndroidStudioProjects/DocHub/app/build/intermediates/pre-dexed/debug/eventbus-2.2.1-54e5ac9df487a71ffa1a4c3cb6550589c2ae9cf6.jar" />
+    </item>
+    <item
+        jar="/home/frank/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.2.0/959c454243581fdf730abfd4f4745441724bcf2c/okhttp-2.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="/home/frank/AndroidStudioProjects/DocHub/app/build/intermediates/pre-dexed/debug/okhttp-2.2.0-6d69524f3ccaea5e6d4bffd46173662b2db74ee3.jar" />
+    </item>
+    <item
+        jar="/home/frank/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.0/7ff0e000d1e27e356567f56c92af3b8ab912636f/picasso-2.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="/home/frank/AndroidStudioProjects/DocHub/app/build/intermediates/pre-dexed/debug/picasso-2.5.0-992681b5117c518a4b55efcab818654cfa59af84.jar" />
+    </item>
+    <item
+        jar="/home/frank/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/home/frank/AndroidStudioProjects/DocHub/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-0bf62e1017cf3d4ec4d9a34a1a34f00a285cf75d.jar" />
+    </item>
+    <item
+        jar="/home/frank/AndroidStudioProjects/DocHub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.71/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da">
+        <dex dex="/home/frank/AndroidStudioProjects/DocHub/app/build/intermediates/pre-dexed/debug/classes-c3153842a0b05951a288105f0138226e1300acbb.jar" />
+    </item>
+    <item
+        jar="/home/frank/AndroidStudioProjects/DocHub/app/libs/ParseCrashReporting-1.8.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ccf9e90414e7bb2cf09f4d7c77c42f70c690e118">
+        <dex dex="/home/frank/AndroidStudioProjects/DocHub/app/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.8.2-6c4a1d3756c175ef2867f8c475d628bf3536d1a4.jar" />
+    </item>
+    <item
+        jar="/home/frank/AndroidStudioProjects/DocHub/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/frank/AndroidStudioProjects/DocHub/app/build/intermediates/pre-dexed/debug/classes-9ebe4a4bb7beaf7173e7f0ca778589938caf1ef4.jar" />
+    </item>
+    <item
+        jar="/home/frank/AndroidStudioProjects/DocHub/app/libs/bolts-android-1.1.4-javadoc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f5dd6492c539679411fa30818320b737c410158f">
+        <dex dex="/home/frank/AndroidStudioProjects/DocHub/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-javadoc-1cbcc208f322a0ba5c74fe57eb0d5b597bf0f0ef.jar" />
+    </item>
+    <item
+        jar="/home/frank/AndroidStudioProjects/DocHub/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/home/frank/AndroidStudioProjects/DocHub/app/build/intermediates/pre-dexed/debug/classes-2838de0a50b53dd83e2f67141d6c1603cd457a64.jar" />
+    </item>
+
+</items>
